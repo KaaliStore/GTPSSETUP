@@ -1,2 +1,6 @@
 # GTPSSETUP
-Membantu Dalam setup aplilkasi yang dibutuhkan untuk Konfigurasi GTPS
+Cara Pakai :
+Download File 
+Setelah itu extract 
+dan Open install_all.bat
+Done
